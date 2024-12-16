@@ -10,8 +10,6 @@ To deploy a Node.js web application on Microsoft Azure using Terraform for Infra
    - [Step 3: Define Infrastructure with Terraform](#step-3-define-infrastructure-with-terraform)
    - [Step 4: Set Up CI/CD in Azure DevOps](#step-4-set-up-cicd-in-azure-devops)
 4. [Testing and Monitoring](#testing-and-monitoring)
-5. [Stretch Goals](#stretch-goals)
-6. [Conclusion](#conclusion)
 
 
 ## Prerequisites
